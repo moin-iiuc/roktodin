@@ -1,0 +1,14 @@
+<x-layout>
+    <x-slot:title>
+        Homepage
+    </x-slot:title>
+    <x-slot:heading>
+        Homepage
+    </x-slot:heading>
+    <x-hero>
+    </x-hero>
+    <x-process>
+    </x-process>
+    <x-contactus>
+    </x-contactus>
+</x-layout>
